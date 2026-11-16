@@ -5,38 +5,38 @@ object ArtworkRepository {
     val artworks = listOf(
 
         Artwork(
-            imageResource = R.drawable.s1,
-            title = "Китайская стена",
-            author = "Китай — строилась с III века до н. э..",
-            description = "s1"
+            R.drawable.s1,
+            R.string.artwork_1_title,
+            R.string.artwork_1_author,
+            R.string.artwork_1_description
         ),
 
         Artwork(
-            imageResource = R.drawable.s2,
-            title = "Колизей",
-            author = "Италия — открыт в 80 г. н. э..",
-            description = "s2"
+            R.drawable.s2,
+            R.string.artwork_2_title,
+            R.string.artwork_2_author,
+            R.string.artwork_2_description
         ),
 
         Artwork(
-            imageResource = R.drawable.s3,
-            title = "Чичен-Ица",
-            author = "Мексика - центр майя (I тысячелетие н. э.)",
-            description = "s3"
+            R.drawable.s3,
+            R.string.artwork_3_title,
+            R.string.artwork_3_author,
+            R.string.artwork_3_description
         ),
 
         Artwork(
-            imageResource = R.drawable.s4,
-            title = "Мачу-Пикчу",
-            author = "Перу — построен около 1440 года.",
-            description = "s4"
+            R.drawable.s4,
+            R.string.artwork_4_title,
+            R.string.artwork_4_author,
+            R.string.artwork_4_description
         ),
 
         Artwork(
-            imageResource = R.drawable.s5,
-            title = "Тадж-Махал",
-            author = "Индия - построен в 1632–1653 гг..",
-            description = "s5"
+            R.drawable.s5,
+            R.string.artwork_5_title,
+            R.string.artwork_5_author,
+            R.string.artwork_5_description
         )
     )
 }

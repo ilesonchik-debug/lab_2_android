@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Галерея исскуства</string>
+
+    <string name="artwork_image_description">t1</string>
+    <string name="artwork_title_placeholder">t2</string>
+    <string name="artwork_author_placeholder">t3</string>
+
+    <string name="previous_button">Предыдущее</string>
+    <string name="next_button">Следующее</string>
+
+    <string name="artwork_1_title">Китайская стена</string>
+    <string name="artwork_1_author">Китай — строилась с III века до н. э..</string>
+    <string name="artwork_1_description">s1</string>
+
+    <string name="artwork_2_title">Колизей</string>
+    <string name="artwork_2_author">Италия — открыт в 80 г. н. э..</string>
+    <string name="artwork_2_description">s2</string>
+
+    <string name="artwork_3_title">Чичен-Ица</string>
+    <string name="artwork_3_author">Мексика) — центр майя (I тысячелетие н. э.)</string>
+    <string name="artwork_3_description">s3</string>
+
+    <string name="artwork_4_title">Мачу-Пикчу</string>
+    <string name="artwork_4_author">Перу — построен около 1440 года.</string>
+    <string name="artwork_4_description">s4</string>
+
+    <string name="artwork_5_title">Тадж-Махал</string>
+    <string name="artwork_5_author">Индия — построен в 1632–1653 гг..</string>
+    <string name="artwork_5_description">s5</string>
+</resources>
