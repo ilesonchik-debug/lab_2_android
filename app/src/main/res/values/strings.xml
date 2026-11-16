@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">lab-2</string>
+    <string name="app_name">Art Gallery</string>
+
+    <string name="artwork_image_description">Изображение произведения искусства</string>
+    <string name="artwork_title_placeholder">Название произведения</string>
+    <string name="artwork_author_placeholder">Автор произведения</string>
+
+    <string name="previous_button">Предыдущее</string>
+    <string name="next_button">Следующее</string>
 </resources>
