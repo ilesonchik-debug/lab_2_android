@@ -17,8 +17,8 @@
         app:layout_constraintBottom_toTopOf="@id/artworkTitle"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintVertical_bias="0.4"
-        app:layout_constraintHeight_default="spread"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent="0.56"
         app:layout_constraintHeight_max="520dp" />
 
     <!-- Название произведения -->
