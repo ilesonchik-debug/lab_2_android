@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Art Gallery</string>
+
+    <string name="artwork_image_description">t1</string>
+    <string name="artwork_title_placeholder">t2</string>
+    <string name="artwork_author_placeholder">t3</string>
+
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+
+    <string name="artwork_1_title">Great Wall of China</string>
+    <string name="artwork_1_author">China — built from the 3rd century BC.</string>
+    <string name="artwork_1_description">s1</string>
+
+    <string name="artwork_2_title">Colosseum</string>
+    <string name="artwork_2_author">Italy — opened in 80 AD.</string>
+    <string name="artwork_2_description">s2</string>
+
+    <string name="artwork_3_title">Chichen Itza</string>
+    <string name="artwork_3_author">Mexico — Mayan center (1st millennium AD)</string>
+    <string name="artwork_3_description">s3</string>
+
+    <string name="artwork_4_title">Machu Picchu</string>
+    <string name="artwork_4_author">Peru — built around 1440.</string>
+    <string name="artwork_4_description">s4</string>
+
+    <string name="artwork_5_title">Taj Mahal</string>
+    <string name="artwork_5_author">India — built in 1632–1653.</string>
+    <string name="artwork_5_description">s5</string>
+</resources>
